@@ -20,7 +20,7 @@ public class GameManager
 
         //we have a successful move
         //check to see if that move was involved in a winning move!!!
-        if(this.theBoard.isWinner(result))
+        //if(this.theBoard.isWinner(result))
         {
             //We have a winner, print to screen and end the game
 

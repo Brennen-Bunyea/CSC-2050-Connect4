@@ -16,12 +16,14 @@ public class Connect4Board
         }
     }
 
+    /*
     public bool isWinner(MoveResult)
     {
         //check to see if result was involved in a horizontal, vertical, or diagonal win
         //return true if yes, and false if no
 
     }
+    */
 
     public MoveResult makeMove(int column, string color)
     {
